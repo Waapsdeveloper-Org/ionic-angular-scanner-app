@@ -26,7 +26,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ionic-angular-qrcode-app.git
+   git clone https://github.com/Waapsdeveloper-Org/ionic-angular-scanner-app.git
    cd ionic-angular-qrcode-app
    ```
 
